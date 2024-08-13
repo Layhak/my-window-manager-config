@@ -19,6 +19,7 @@ if it's doesn't work:
 
 
 <h1>To make this work you need to create directory:</h1>
-- .config/yabai
-- .config/skhd
+
+- `.config/yabai` directory.
+- `.config/skhd` directory.
 and then copy the config file that have the same name as it parent's.
